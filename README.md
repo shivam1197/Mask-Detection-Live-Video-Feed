@@ -16,3 +16,5 @@ The model is accurate, and since the MobileNetV2 architecture is used, it’s al
 It is currently working on the live camera feed of the system. With further improvements we can take these type of model and integrate them with CCTV and identify people without mask.
 
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
+
+The Datasets have not been available here, they have been uploaded on the drive. 
