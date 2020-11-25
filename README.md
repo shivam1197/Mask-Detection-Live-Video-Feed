@@ -6,10 +6,10 @@ Programming Language used here is Python.
 
 For this Particular Task I choose These Libraries to get the desired Result.
 
-TensorFlow
-Keras
-MobileNets
-OpenCV
+1. TensorFlow
+2. Keras
+3. MobileNets
+4. OpenCV
 
 The model is accurate, and since the MobileNetV2 architecture is used, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
 It is currently working on the live camera feed of the system. With further improvements we can take these type of model and integrate them with CCTV and identify people without mask.
